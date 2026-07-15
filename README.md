@@ -34,7 +34,7 @@ The structural and visual design for a standalone interactive gaming kiosk used 
 A fully modeled, textured, and lit 3D restaurant environment. 
 
 **Watch the Teaser Video:**
-🎬 [Click here to view the Restaurant Teaser MP4](Restaurant_Teaser.mp4)
+[![Restaurant Teaser Video](https://img.youtube.com/vi/68mqC_k8BiE/maxresdefault.jpg)](https://youtu.be/68mqC_k8BiE)
 
 **Environment Overview & Renders:**
 ![Restaurant Overview](Restaurant_Model_Overview.jpeg)
